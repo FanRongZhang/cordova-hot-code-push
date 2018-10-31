@@ -1,3 +1,5 @@
+参考地址：http://www.huangwenchao.com.cn/2017/04/cordova-%E4%BB%A3%E7%A0%81%E7%83%AD%E6%9B%B4%E6%96%B0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html
+
 # THIS PROJECT IS DEPRECATED
 
 We are not using this repo anymore, and we lack the manpower and the experience needed to maintain it. We are aware of the inconveniece that this may cause you. Feel free to use it as is, or create your own fork. See https://github.com/nordnet/cordova-hot-code-push/issues/371 for more information.
